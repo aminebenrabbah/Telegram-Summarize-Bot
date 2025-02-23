@@ -2,10 +2,10 @@ from telegram import Update ,ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackContext,MessageHandler,filters ,ConversationHandler
 from summerfc import *
 
-TOKEN = "7918104486:AAFisA9rrgdtsCWfkRGCqvIpqpm0XPlz0vg" #token for telegram bot
+TOKEN = "" #token for telegram bot
 
 
-api_key = "AIzaSyAuaMCMR71jdQvRSrr7nSUg5NZQ2Kx02WY"  # Replace with your actual API key
+api_key = ""  # key for gimine
 
 
 
